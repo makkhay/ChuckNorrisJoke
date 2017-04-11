@@ -1,5 +1,4 @@
-# JSONFeedReader
+# ChuckNorrisJoke Android App
 
 
-This android app reads json feed. The json file is stored in the web and
-the objects are handled by the application using asncytask. Alternatively, you can use XML to parse json feed too. In order to use XMl, just uncomment the DownloadWordDefination.class. 
+This android app will tell you funny jokes. I'm experimenting different android features such as accelerometer, custom dialog, and Text to speech.  
