@@ -2,7 +2,8 @@
 ---
 **This android app will tell you funny jokes. I'm experimenting different android features such as accelerometer, custom dialog, and Text to speech.**
 * You can also skip jokes by shaking your phone.
-**How to run ?**
+
+** How to run ?**
 * Clone the reposistory and run it using android studio
 
 
